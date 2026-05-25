@@ -1,0 +1,8 @@
+[
+  {"nome": "UBS Vila Mariana", "positivo": "Equipe completa", "negativo": "Fila de espera para consultas"},
+  {"nome": "UPA Centro", "positivo": "Estrutura moderna", "negativo": "Falta de insumos básicos"},
+  {"nome": "Hospital Regional", "positivo": "Atendimento humanizado", "negativo": "Gargalo no pronto-socorro"},
+  {"nome": "UBS Leste", "positivo": "Agilidade na vacinação", "negativo": "Infraestrutura predial antiga"},
+  {"nome": "Policlínica Sul", "positivo": "Horário estendido", "negativo": "Poucos especialistas"},
+  {"nome": "UPA Norte", "positivo": "Triagem eficiente", "negativo": "Superlotação no final do dia"}
+]
